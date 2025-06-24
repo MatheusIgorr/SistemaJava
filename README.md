@@ -45,7 +45,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/sistema-biblioteca-java.git
+git clone https://github.com/MatheusIgorr/SistemaJava/edit/main/README.md
 Abra o projeto em sua IDE Java preferida.
 
 Compile e execute a classe Main.java.
